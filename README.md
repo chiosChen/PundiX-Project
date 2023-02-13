@@ -55,5 +55,6 @@ https://pundi-x-project-3mhdptxoq-chioschen.vercel.app/
 The contracts has been deployed on Goerli testnet at addresses
 
 ERC20 - 0x66ECEB9C63cB99d0b1998AA3eACDcae24DCc7E5F
+
 ERC721 - 0x489A2255154674c1dF87Fde72e4d2489075464D4
 
